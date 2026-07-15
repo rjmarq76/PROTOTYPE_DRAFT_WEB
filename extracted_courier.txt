@@ -1,0 +1,287 @@
+EXTRACTED COURIER QUESTIONS
+========================
+
+
+CATEGORY: COURIER
+------------------------
+
+FILE: 1.png
+Based on the image provided, here is the extracted information for the visible questions:
+
+### **Question 1**
+* **Question Number:** 1.
+* **Question Text:** `Courier Name: *`
+* **Description/Instructions:** None
+* **Option Type:** Dropdown (with placeholder text: `Select your answer`)
+
+---
+
+### **Question 2**
+* **Question Number:** 2.
+* **Question Text:** `Courier Address: *`
+* **Description/Instructions:** None
+* **Option Type:** Text input (with placeholder text: `Enter your answer`)
+
+---
+
+### **Question 3**
+* **Question Number:** 3.
+* **Question Text:** `Period Covered: *`
+* **Description/Instructions:** None
+* **Option Type:** Dropdown (with placeholder text: `Select your answer`)
+
+---
+
+### **Question 4 (Partially visible)**
+* **Question Number:** 4.
+* **Question Text:** `Does the courier consistently deliver our goods to our customers on the agreed date or period? *`
+* **Description/Instructions:** None
+* **Option Type:** Not visible in the image (cut off at the bottom)
+
+FILE: 2.png
+Based on the provided image, here is the extracted information from the Microsoft Form, preserving the exact spelling, casing, and punctuation:
+
+---
+
+### **Section 2: Reliablity/Delivery** *(30 points)*
+
+#### **Question 4**
+1. **Question number:** 4
+2. **Question text:** `Does the courier consistently deliver our goods to our customers on the agreed date or period? *`
+3. **Description/Instructions:** None
+4. **Option type:** Dropdown list (currently showing placeholder text: `Select your answer`)
+
+#### **Question 5**
+1. **Question number:** 5
+2. **Question text:** `Does the courier service maintain a consistent level of acceptable (define) service over time? *`
+3. **Description/Instructions:** None
+4. **Option type:** Dropdown list (currently showing placeholder text: `Select your answer`)
+
+#### **Question 6**
+1. **Question number:** 6
+2. **Question text:** `Reliablity/Delivery Remarks *`
+3. **Description/Instructions:** None
+4. **Option type:** Text input field (currently showing placeholder text: `Enter your answer`)
+
+---
+
+### **Section 3: Cost** *(20 points)*
+
+#### **Question 7**
+1. **Question number:** 7
+2. **Question text:** `Are the courier's rates competitive and transparent? *`
+3. **Description/Instructions:** None
+4. **Option type:** Dropdown list (currently showing placeholder text: `Select your answer`)
+
+FILE: 3.png
+Based on the provided image, here is the extracted information from the Microsoft Form survey under **Section 3: Cost**:
+
+---
+
+### **Question 7**
+* **Question number:** 7.
+* **Question text:** Are the courier's rates competitive and transparent? *
+* **Description or instructions:** None
+* **Option type:** Dropdown selection (displays placeholder: "Select your answer")
+
+---
+
+### **Question 8**
+* **Question number:** 8.
+* **Question text:** Are there any hidden fees or surcharges? *
+* **Description or instructions:** None
+* **Option type:** Dropdown selection (displays placeholder: "Select your answer")
+
+---
+
+### **Question 9**
+* **Question number:** 9.
+* **Question text:** Are they offering flexible payment options, e.g., credit cards or invoicing, and payment credit line? *
+* **Description or instructions:** None
+* **Option type:** Dropdown selection (displays placeholder: "Select your answer")
+
+---
+
+### **Question 10**
+* **Question number:** 10.
+* **Question text:** Cost Remarks: *
+* **Description or instructions:** None
+* **Option type:** Text input box (displays placeholder: "Enter your answer")
+
+FILE: 4.png
+Based on the image provided, here are the extracted details of the survey questions:
+
+### **Section 4: Technology** (10 points)
+
+#### **Question 11**
+1. **Question number:** 11
+2. **Question text:** Do they have advanced tracking systems allowing customers for real-time monitoring of the status and location of their packages? *
+3. **Description or instructions:** None
+4. **Option types:** Dropdown selection (with placeholder text `"Select your answer"`)
+
+#### **Question 12**
+1. **Question number:** 12
+2. **Question text:** Do they have online platforms and mobile apps provided to customers to schedule pickups, make payments, and arrange deliveries? *
+3. **Description or instructions:** None
+4. **Option types:** Dropdown selection (with placeholder text `"Select your answer"`)
+
+#### **Question 13**
+1. **Question number:** 13
+2. **Question text:** Technology Remarks *
+3. **Description or instructions:** None
+4. **Option types:** Text input (with placeholder text `"Enter your answer"`)
+
+---
+
+### **Section 5: Customer Service** (25 points)
+
+#### **Question 14** (Partially visible)
+1. **Question number:** 14
+2. **Question text:** Do they have a helpful and responsive customer support team? *
+3. **Description or instructions:** None
+4. **Option types:** Not fully visible (cut off at the bottom)
+
+FILE: 5.png
+ERROR processing screenshots/courier/5.png: HTTP Error 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.5-flash\nPlease retry in 41.196731225s.",
+    "status": "RESOURCE_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://ai.google.dev/gemini-api/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "quotaMetric": "generativelanguage.googleapis.com/generate_content_free_tier_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-3.5-flash"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "41s"
+      }
+    ]
+  }
+}
+
+
+FILE: 6.png
+ERROR processing screenshots/courier/6.png: HTTP Error 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.5-flash\nPlease retry in 26.054990317s.",
+    "status": "RESOURCE_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://ai.google.dev/gemini-api/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "quotaMetric": "generativelanguage.googleapis.com/generate_content_free_tier_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "model": "gemini-3.5-flash",
+              "location": "global"
+            },
+            "quotaValue": "20"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "26s"
+      }
+    ]
+  }
+}
+
+
+
+FILE: 5.png
+Based on the image provided, here are the details for the questions in Section 5:
+
+**Question 14**
+*   **Question number:** 14.
+*   **Question text:** Do they have a helpful and responsive customer support team? *
+*   **Description/Instructions:** None.
+*   **Option type:** Dropdown menu (indicated by "Select your answer").
+
+**Question 15**
+*   **Question number:** 15.
+*   **Question text:** Do they effectively handle the customer's issues, and complaints, e.g., lost shipment, item, defective items? *
+*   **Description/Instructions:** None.
+*   **Option type:** Dropdown menu (indicated by "Select your answer").
+
+**Question 16**
+*   **Question number:** 16.
+*   **Question text:** Does the courier have a prompt payment process in case of mishandled goods, e.g., broken or missing goods? *
+*   **Description/Instructions:** None.
+*   **Option type:** Dropdown menu (indicated by "Select your answer").
+
+**Question 17**
+*   **Question number:** 17.
+*   **Question text:** Customer Service Remarks: *
+*   **Description/Instructions:** None.
+*   **Option type:** Text input field (indicated by "Enter your answer").
+
+
+FILE: 6.png
+Based on the image provided, here is the extracted information for the questions shown:
+
+**Question 16**
+*   **Question Number:** 16
+*   **Question Text:** Does the courier have a prompt payment process in case of mishandled goods, e.g., broken or missing goods? *
+*   **Description/Instructions:** None
+*   **Option Type:** Dropdown menu
+*   **Options Text:** Select your answer
+
+**Question 17**
+*   **Question Number:** 17
+*   **Question Text:** Customer Service Remarks: *
+*   **Description/Instructions:** None
+*   **Option Type:** Text input box (Long answer)
+*   **Options Text:** Enter your answer
+
+**Question 18**
+*   **Question Number:** 18
+*   **Question Text:** Do they ensure the safety and security of our packages/parcels during transit and delivery to the client's site? *
+*   **Description/Instructions:** None
+*   **Option Type:** Dropdown menu
+*   **Options Text:** Select your answer
+
+**Question 19**
+*   **Question Number:** 19
+*   **Question Text:** Do they include insurance options to cover potential loss or damage to our items? *
+*   **Description/Instructions:** None
+*   **Option Type:** Dropdown menu
+*   **Options Text:** Select your answer
+
+**Question 20**
+*   **Question Number:** 20
+*   **Question Text:** Security Remarks: *
+*   **Description/Instructions:** None
+*   **Option Type:** Text input box (Long answer)
+*   **Options Text:** Enter your answer

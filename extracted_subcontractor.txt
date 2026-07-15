@@ -1,0 +1,223 @@
+EXTRACTED SUBCONTRACTOR QUESTIONS
+========================
+
+
+
+FILE: 1.png
+Based on the image provided, here is the extracted information:
+
+**Question 1**
+*   **Question Number:** 1
+*   **Question Text:** Designation: *
+*   **Description/Instructions:** None
+*   **Option Type:** Choice (Dropdown menu)
+*   **Options Text:** Select your answer
+
+**Question 2**
+*   **Question Number:** 2
+*   **Question Text:** Department: *
+*   **Description/Instructions:** None
+*   **Option Type:** Choice (Dropdown menu)
+*   **Options Text:** Select your answer
+
+**Question 3**
+*   **Question Number:** 3
+*   **Question Text:** Subcontractor Name: *
+*   **Description/Instructions:** None
+*   **Option Type:** Choice (Dropdown menu)
+*   **Options Text:** Select your answer
+
+**Question 4**
+*   **Question Number:** 4
+*   **Question Text:** Project Name: *
+*   **Description/Instructions:** None
+*   **Option Type:** Text (Short answer input field)
+*   **Options Text:** Enter your answer
+
+
+FILE: 2.png
+Based on the image provided, here is the extracted information for the two questions:
+
+### **Question 5**
+1.  **Question Number:** 5
+2.  **Question Text:** Products or Services: *
+3.  **Description/Instructions:** None
+4.  **Option Types:** Multiple Choice (Checkboxes)
+5.  **Options Text:**
+    *   Access Control System
+    *   CCTV System
+    *   Civil Works
+    *   Electrical Works
+    *   Fire Suppression System
+    *   Mechanical Works
+    *   Structured Cabling System
+    *   Others
+
+***
+
+### **Question 6**
+1.  **Question Number:** 6
+2.  **Question Text:** Project Duration (From To) *
+3.  **Description/Instructions:** None
+4.  **Option Types:** Text input (Long Answer)
+5.  **Options Text:** "Enter your answer" (Placeholder text)
+
+
+FILE: 3.png
+Based on the image provided, here is the extracted information for the question shown:
+
+1. **Question Number:** 7.
+2. **Question Text:** Delivery / Project Timeliness *
+3. **Description/Instructions:** None specifically for this question, though there is a general instruction above the section: "Using the rating scale below, Put a number that best describes the Subcontarctor's overall performance rating: Highest rating is 2."
+4. **Option Types and Text:** 
+   * **Option Type:** Likert-style scale (Rating scale).
+   * **Rating Scale Headers:** 2, 1, 0, N/A
+   * **Sub-question Text:** a. Except for circumstances
+
+
+FILE: 4.png
+Based on the image provided, here is the extracted information:
+
+**Question 7:**
+*   **Question Number:** 7.
+*   **Question Text:** Delivery / Project Timeliness *
+*   **Description/Instructions:** None for the question itself, but the section header notes: "Using the rating scale below, Put a number that best describes the Subcontarctor's overall performance rating: Highest rating is 2."
+*   **Option Types:** Likert scale (Radio buttons)
+*   **Column Headers:** 2, 1, 0, N/A
+*   **Row Options:**
+    *   **a. Except for circumstances beyond the contractor's control, tasks and deliverables were completed on time or ahead of the schedule in the contact.** (Includes sub-text: "Always = 2, <2weeks late = 1, >2weeks late = 0, Not Applicable = N/A")
+    *   **b. Delivers and use all resources required to the project and turnover all excess materials to MBS Project Manager** (Includes sub-text: "Consistently = 2, inconsistent = 1, not at all = 0, Not Applicable = N/A")
+
+**Question 8:**
+*   **Question Number:** 8.
+*   **Question Text:** Delivery / Project Timeliness Remarks: *
+*   **Description/Instructions:** None.
+*   **Option Type:** Long text (Input field)
+*   **Placeholder Text:** Enter your answer
+
+
+FILE: 5.png
+Based on the image provided, here is the extracted information:
+
+### **Question 9**
+*   **Question Text:** 9. Documentation / Invoicing
+*   **Description/Instructions:** (Table-based rating scale)
+*   **Option Types:** Likert scale (Radio buttons) with columns labeled: 2, 1, 0, N/A
+*   **Options Text:**
+    *   **Row a:** 
+        *   "a. The subcontractor's invoices/billing were correct, accurate and contained all information of references."
+        *   "Always = 2, limited correction and tolerable = 1, Multiple important corrections leads to delays in processing = 0, Not Applicable = N/A"
+    *   **Row b:** 
+        *   "b. All required documents are submitted on time or within the time frames of agreement e.g. Service report, billing, COC, etc."
+        *   "Very timely = 2, <1week = 1, > 1 week=0, Not Applicable = N/A"
+    *   **Row c:** 
+        *   "c. The proposal provides a clear breakdown matched with what MBS requires."
+        *   "Consistently = 2, the scope is inaccurate but does not lead to price increase = 1, incomplete and leads to price increase = 0, , Not Applicable = N/A"
+
+---
+
+### **Question 10**
+*   **Question Text:** 10. Documentation / Invoicing Remarks: *
+*   **Description/Instructions:** None.
+*   **Option Type:** Long answer text box.
+*   **Options Text:** "Enter your answer" (Placeholder text).
+
+
+FILE: 6.png
+Based on the image provided, here is the extracted information:
+
+**1. Question Number:**
+11
+
+**2. Question Text:**
+Cost Control / Pricing *
+
+**3. Description or Instructions:**
+None (Note: There is a sub-instruction/key provided for each individual sub-item).
+
+**4. Option Types and Options Text:**
+This is a Likert-style matrix question. The column headers are: **2**, **1**, **0**, and **N/A**.
+
+The sub-items are as follows:
+
+*   **a. Give competitive prices, discount, and reasonable prices**
+    *   *Instruction:* Yes = 2 accommodate within MBS budget = 1, No = 0, Not Applicable = N/A
+*   **b. Request for change of orders for additional works/cost ONLY outside the scope of contract.**
+    *   *Instruction:* Yes = 2, seldom request for change of orders = 1, do not accommodate additional works = 0, Not Applicable = N/A
+*   **c. Indication that the subcontractor has financial problem which cannot meet the terms and conditions stated in contract.**
+    *   *Instruction:* With healthy financial position = 2, Liquid for at least < 1M = 1, Always need fund to mobilize the project = 0, Not Applicable = N/A
+
+
+FILE: 7.png
+Based on the image provided, here is the extracted information:
+
+**1. Question number:** 
+13
+
+**2. Question text:** 
+Quality and Technical Competence *
+
+**3. Description or instructions:** 
+None provided.
+
+**4. Option types and options text:**
+This is a Likert-style grid (radio button choice matrix). The column headers are: **2**, **1**, **0**, **N/A**.
+
+The row items are as follows:
+
+*   **Row a:** 
+    *   **Text:** "a. The Subcontractor work products complied with the contract, PO scope of work, rules and applicable program guidance."
+    *   **Sub-text/Legend:** "Consistently met requirements with no re-work = 2, Mostly met requirements with limited and minor re-work, Substandard work products = 0, Not Applicable = N/A"
+*   **Row b:** 
+    *   **Text:** "b. The subcontractor performed site assessment tasks efficiently and effectively, proposed cost-effective changes in scope, provided an accurate summary and proposed cost-effective recommendations for future work and course of action."
+    *   **Sub-text/Legend:** "Consistently = 2, Minor ineffective or inaccurate assessment summary or inefficient recommendation = 1, Assessment summaries or recommendations had to be re-worked = 0, Not Applicable = N/A"
+*   **Row c:** 
+    *   **Text:** "c. The subcontractor proposed appropriate changes to monitoring points, parameters, and or frequency based on changing site conditions."
+    *   **Sub-text/Legend:** "Consistently = 2, Minor changes not proposed = 1, Changes were not proposed"
+
+
+FILE: 8.png
+Based on the image provided, here is the information extracted for the two questions visible:
+
+### Question 14
+1.  **Question Number:** 14
+2.  **Question Text:** Quality and Technical Competence Remarks: *
+3.  **Description/Instructions:** N/A
+4.  **Option Type:** Long text answer field.
+
+---
+
+### Question 15
+1.  **Question Number:** 15
+2.  **Question Text:** Communication *
+3.  **Description/Instructions:** N/A
+4.  **Option Type:** Choice grid (Rating scale with columns 2, 1, 0, and N/A). 
+    *   *Note: Only the header row of the grid is visible; the sub-questions (a, b, etc.) are partially cut off at the bottom of the image.*
+
+
+FILE: 9.png
+Based on the image provided, here is the extracted information for question 15:
+
+**1. Question Number:**
+15.
+
+**2. Question Text:**
+Communication *
+
+**3. Description or Instructions:**
+None (Note: The text appearing below each sub-item is part of the rating scale definition, not a general instruction for the question).
+
+**4. Option types and options text:**
+This is a Matrix (Likert) question type with four columns: **2**, **1**, **0**, and **N/A**.
+
+The rows are as follows:
+
+*   **Row a:** 
+    *   **Text:** a. The subcontractor communicated and proposed solutions of project changes, problems, delays and issues to MBS representative as they occurred and ahead of deadlines.
+    *   **Scale definitions:** Always = 2, Some communications untimely or less helpful = 1, problems occur due to untimely or poor communications = 0, Not Applicable = N/A
+*   **Row b:** 
+    *   **Text:** b. The subcontractor responded within a reasonable time frame to telephone messages and emails from MBS representative.
+    *   **Scale definitions:** Generally, within 2 business days = 2, Generally within 3-5days = 1, more than 5 days= 0, Not Applicable = N/A
+*   **Row c:** 
+    *   **Text:** c. The subcontractor is professional in their approach, provide assistance whenever needed, courteous and polite.
+    *   **Scale definitions:** Always regardless or people they transact with = 2, Depends on the position they transact with = 1, do business unprofessionally at all times = 0, Not Applicable = N/A

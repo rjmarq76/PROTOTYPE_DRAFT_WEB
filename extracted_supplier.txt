@@ -1,0 +1,194 @@
+EXTRACTED SUPPLIER QUESTIONS
+========================
+
+
+
+FILE: 1.png
+Based on the image provided, here is the extracted information for the four questions:
+
+**1. Question Number: 1**
+*   **Question Text:** Designation: *
+*   **Description/Instructions:** None
+*   **Option Type:** Dropdown menu
+*   **Options Text:** Select your answer
+
+**2. Question Number: 2**
+*   **Question Text:** Department: *
+*   **Description/Instructions:** None
+*   **Option Type:** Dropdown menu
+*   **Options Text:** Select your answer
+
+**3. Question Number: 3**
+*   **Question Text:** Supplier Name: *
+*   **Description/Instructions:** None
+*   **Option Type:** Dropdown menu
+*   **Options Text:** Select your answer
+
+**4. Question Number: 4**
+*   **Question Text:** Period Covered: *
+*   **Description/Instructions:** None
+*   **Option Type:** Dropdown menu
+*   **Options Text:** Select your answer
+
+
+FILE: 2.png
+Based on the image provided, here is the extracted information for the questions listed:
+
+---
+
+### **Question 5**
+*   **Question Number:** 5
+*   **Question Text:** Does the supplier use the correct documents to facilitate the delivery of sale transaction? (BIR Registered, DR, SI/BS, OR/CR) *
+*   **Description/Instructions:** None.
+*   **Option Type:** Dropdown list (indicated by "Select your answer").
+
+### **Question 6**
+*   **Question Number:** 6
+*   **Question Text:** Are the required documents complete for every transaction? *
+*   **Description/Instructions:** None.
+*   **Option Type:** Dropdown list (indicated by "Select your answer").
+
+### **Question 7**
+*   **Question Number:** 7
+*   **Question Text:** Are documents clean, neat and readable ? *
+*   **Description/Instructions:** None.
+*   **Option Type:** Dropdown list (indicated by "Select your answer").
+
+### **Question 8**
+*   **Question Number:** 8
+*   **Question Text:** Are documents presented/submitted upon delivery? *
+*   **Description/Instructions:** None.
+*   **Option Type:** Dropdown list (indicated by "Select your answer").
+
+### **Question 9**
+*   **Question Number:** 9
+*   **Question Text:** Are documents presented/submitted upon payments? *
+*   **Description/Instructions:** None.
+*   **Option Type:** Dropdown list (indicated by "Select your answer").
+
+### **Question 10**
+*   **Question Number:** 10
+*   **Question Text:** Documentation Remarks *
+*   **Description/Instructions:** None.
+*   **Option Type:** Long-answer text field (indicated by "Enter your answer").
+
+
+FILE: 3.png
+Based on the image provided, here is the extracted information for the questions in Section 4:
+
+**1. Question Number:** 11
+*   **Question text:** Does the supplier deliver the product on time based on the agreed schedule? *
+*   **Description/instructions:** None
+*   **Option types and options text:** Dropdown menu with placeholder text "Select your answer"
+
+**2. Question Number:** 12
+*   **Question text:** Does the supplier deliver the product in proper packaging and in good condition? *
+*   **Description/instructions:** None
+*   **Option types and options text:** Dropdown menu with placeholder text "Select your answer"
+
+**3. Question Number:** 13
+*   **Question text:** Does the supplier deliver the products sealed and safe and free for possible contamination? *
+*   **Description/instructions:** None
+*   **Option types and options text:** Dropdown menu with placeholder text "Select your answer"
+
+**4. Question Number:** 14
+*   **Question text:** Delivery Remarks *
+*   **Description/instructions:** None
+*   **Option types and options text:** Long text box with placeholder text "Enter your answer"
+
+
+FILE: 4.png
+Based on the image provided, here is the extracted information for the questions shown:
+
+**Question 15**
+*   **Question Number:** 15
+*   **Question Text:** Does the supplier change the price without any notice to MBS Procurement/BSM? *
+*   **Description/Instructions:** None
+*   **Option Type:** Dropdown menu
+*   **Options Text:** Select your answer
+
+**Question 16**
+*   **Question Number:** 16
+*   **Question Text:** Is the supplier open for negotiation in terms of price? *
+*   **Description/Instructions:** None
+*   **Option Type:** Dropdown menu
+*   **Options Text:** Select your answer
+
+**Question 17**
+*   **Question Number:** 17
+*   **Question Text:** Is the supplier pricing competitive with other suppliers? *
+*   **Description/Instructions:** None
+*   **Option Type:** Dropdown menu
+*   **Options Text:** Select your answer
+
+**Question 18**
+*   **Question Number:** 18
+*   **Question Text:** Price/Cost Effectiveness Remarks *
+*   **Description/Instructions:** None
+*   **Option Type:** Long text input field
+*   **Options Text:** Enter your answer
+
+
+FILE: 5.png
+Based on the image provided, here is the extracted information:
+
+### **Question 19**
+*   **Question Number:** 19
+*   **Question Text:** Does the supplier deliver the product with good quality?
+*   **Description/Instructions:** None
+*   **Option Type:** Dropdown menu
+*   **Options:** "Select your answer"
+
+### **Question 20**
+*   **Question Number:** 20
+*   **Question Text:** Does the supplier take immediate action for defective product upon delivery/RMA?
+*   **Description/Instructions:** None
+*   **Option Type:** Dropdown menu
+*   **Options:** "Select your answer"
+
+### **Question 21**
+*   **Question Number:** 21
+*   **Question Text:** Does the supplier replace the defective product immediately?
+*   **Description/Instructions:** None
+*   **Option Type:** Dropdown menu
+*   **Options:** "Select your answer"
+
+### **Question 22**
+*   **Question Number:** 22
+*   **Question Text:** Quality Remarks
+*   **Description/Instructions:** None
+*   **Option Type:** Long text input field
+*   **Options:** "Enter your answer"
+
+
+FILE: 6.png
+Based on the image provided, here is the extracted information:
+
+**Section Header:** Communication
+**Section Points:** (20 points)
+
+---
+
+### Question 23
+*   **Question Text:** Do supplier responsive and easy to contact? *
+*   **Description/Instructions:** None.
+*   **Option Type:** Dropdown menu
+*   **Options Text:** Select your answer
+
+### Question 24
+*   **Question Text:** Does the supplier proactively communicate to MBS Representatives in terms of any discrepancy or changes in transaction? *
+*   **Description/Instructions:** None.
+*   **Option Type:** Dropdown menu
+*   **Options Text:** Select your answer
+
+### Question 25
+*   **Question Text:** Does the supplier proactively communicate to MBS Representatives fact-based concern on product/ technology? *
+*   **Description/Instructions:** None.
+*   **Option Type:** Dropdown menu
+*   **Options Text:** Select your answer
+
+### Question 26
+*   **Question Text:** Communication Remarks *
+*   **Description/Instructions:** None.
+*   **Option Type:** Text input field (Long answer)
+*   **Options Text:** Enter your answer
